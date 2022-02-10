@@ -1,1 +1,1 @@
-# Logica-y-Algoritmos---UTS
+# Logica y Algoritmos
