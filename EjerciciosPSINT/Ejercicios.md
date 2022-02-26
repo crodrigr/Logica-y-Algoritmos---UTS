@@ -3,40 +3,46 @@
 ### 1. Ejercicio de calculo de salario de un ejempleado cuando trabaja más de 40 horas
 
 ```Txt
-Algoritmo SalarioEmpleado
-	definir horasTrabajadas,horasExtras Como Entero
-	definir precioHora, salario,valorHoraExtra,salarioExtra,totalSalario Como Real
+Algoritmo  SalarioEmpleado
+	definir horasTrabajadas,horasAdicionales Como Entero
+	definir precioHora, salario, precioHoraAdicional,salarioAdicional, totalSalario Como Real
 	definir nombre Como Caracter
 	
-	Escribir "Ingrese por favor el nombre del empleado "
+	Escribir "Por favor ingrese el nombre"
 	leer nombre
-	Escribir "Ingrese por favor la horas trabajadas "
+	Escribir "Por favor ingresar las horas trabajadas: "
 	leer horasTrabajadas
-	Escribir "Ingrese por favor el valor del precio de la hora "
+	Escribir "Por favor ingresar el precio de la hora: "
 	leer precioHora
 	
-	Si horasTrabajadas<40 Entonces
+	
+	Si horasTrabajadas<=40 Entonces
 		salario=horasTrabajadas*precioHora
-		totalSalario=salario
 	SiNo
-		horasExtras=horasTrabajadas-40
-		valorHoraExtra=1.5*precioHora
-		salario=(40*precioHora) 
-		salarioExtra= ((horasExtras)*(valorHoraExtra))
-		totalSalario=(salario) + salarioExtra
+		horasAdicionales=horasTrabajadas-40
+		precioHoraAdicional=1.5*precioHora
+		salarioAdicional=horasAdicionales*precioHoraAdicional
+		salario=(horasTrabajadas*precioHora)
+		totalSalario=salario+salarioAdicional
 	Fin Si
 	
-	Escribir  "Nombre: ",nombre
-	Escribir  "Salario: ",salario
+	Escribir "Nombre: ",nombre
 	
-	Si horasTrabajadas>40 Entonces
-		Escribir "Horas extras: ", horasExtras
-		Escribir "Valor de la hora extra: ", valorHoraExtra
-		Escribir "Salario extra: ",salarioExtra
-		Escribir "Salario total: ", totalSalario
+	Si horasTrabajadas<=40 Entonces		
+		Escribir "Salario: ",salario		
+	SiNo		
+		Escribir "Horas adicionales: ",horasAdicionales
+		Escribir "Precio hora adicional: ",precioHoraAdicional
+		Escribir "Salario adicional: ",salarioAdicional
+		Escribir "Salario: ",salario
+		Escribir "Total salario: ", totalSalario
+		
 	Fin Si
-  
+	
+	
+	
 FinAlgoritmo
+
 ```
 
 ### 2. Ejercicio dado tres numeros a, b y c cual es el mayor. Tener encuenta si los número son iguales
