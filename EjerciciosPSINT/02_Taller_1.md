@@ -1,8 +1,7 @@
 # UNIDADES TECNOLOGICAS DE SANTANDER
-## LOGICA Y ALGORIMOS
-### TALLER 1 19/03/2021
-
-
+## Lógica y Algoritmos
+### Taller 1 19/03/2021
+<br>
 
 ![image](https://user-images.githubusercontent.com/31961588/159097813-a4c2d67c-b6d4-49e8-ab9b-06949d81f302.png)
 
