@@ -9,7 +9,7 @@
  - Tipos de datos en java: int, double, string
  - Primer programa en Java, como escribir un mensaje (System.out.println) y como leer (Scanner)
  - Definición de variables.
- - 
+ 
 #### Tareas
 - Hacer los ejercicios del taller 1 en Java. 
 
