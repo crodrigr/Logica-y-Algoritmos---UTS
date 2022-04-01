@@ -12,6 +12,7 @@
  
 #### Tareas
 - Hacer los ejercicios del taller 1 en Java. 
+- Quiz
 
 ## 02 de Abril del 2020
 
