@@ -115,3 +115,26 @@ public class MyClass {
 
 ![image](https://user-images.githubusercontent.com/31961588/161316000-884eb389-46a5-4ce7-988e-713810f5abde.png)
 
+## 6. Potencia de dos
+
+![image](https://user-images.githubusercontent.com/31961588/161316250-b328c4cd-1f25-4378-94aa-49820413163c.png)
+
+## 7. Suma entre ellos
+
+![image](https://user-images.githubusercontent.com/31961588/161316404-b38f03af-b012-44cf-9f46-b7c5a699cdaf.png)
+
+## 8. Tabla de multiplicar
+
+![image](https://user-images.githubusercontent.com/31961588/161316508-f6228676-cf5e-42cd-97c8-0a9a91f30554.png)
+
+## 9. Divesores
+
+![image](https://user-images.githubusercontent.com/31961588/161316696-0ab90b26-b5ce-4986-abd4-71656e220b26.png)
+
+## 10. Dibujo de asteriscos
+
+![image](https://user-images.githubusercontent.com/31961588/161316915-9be4cf28-9182-45f1-ab64-94aa979e8eb2.png)
+
+![image](https://user-images.githubusercontent.com/31961588/161316980-8a5f67fa-5511-48a6-9293-f471e5986b79.png)
+
+
