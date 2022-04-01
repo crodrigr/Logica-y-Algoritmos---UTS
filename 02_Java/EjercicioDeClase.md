@@ -49,7 +49,7 @@ public class MyClass {
 }
 ```
 
-## 2. Calcular hora futura
+## 3. Calcular hora futura
 
 ![image](https://user-images.githubusercontent.com/31961588/161313481-2cd0c06c-dc20-44fd-a901-cd988c247a5c.png)
 
@@ -82,3 +82,8 @@ public class MyClass {
     }
 }
 ```
+
+## 4. Palabra más larga
+
+![image](https://user-images.githubusercontent.com/31961588/161314780-387facf8-ca94-4329-9e18-e5d2f859ce9a.png)
+
