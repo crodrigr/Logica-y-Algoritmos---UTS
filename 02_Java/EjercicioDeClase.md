@@ -141,7 +141,17 @@ public class MyClass {
 
 ![image](https://user-images.githubusercontent.com/31961588/161317459-64acab49-1c68-40bd-a059-327482bc69e6.png)
 
-## Verificador de digito
+## 12. Verificador de digito
 
 ![image](https://user-images.githubusercontent.com/31961588/161317842-c91525c3-e2e9-408e-b930-eb853a8d6015.png)
+
+## 13. Adivinar el número
+
+![image](https://user-images.githubusercontent.com/31961588/161318209-5b3e659c-8b44-4cca-8f2a-ef42de3f06f1.png)
+
+![image](https://user-images.githubusercontent.com/31961588/161318279-f164d286-d917-4b1f-804a-dcc2f6260b5c.png)
+
+![image](https://user-images.githubusercontent.com/31961588/161318311-77bd4fb6-92c6-43e5-94ee-9d2a76b0ea23.png)
+
+
 
