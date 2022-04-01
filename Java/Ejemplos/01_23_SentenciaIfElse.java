@@ -3,7 +3,7 @@
 public class HolaMundo {
 
     public static void main(String args[]) {
-        var condicion = true;
+        boolean condicion = true;
 
         if (condicion) {
             System.out.println("Condicion verdadera");
