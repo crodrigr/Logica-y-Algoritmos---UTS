@@ -17,7 +17,11 @@
 
 #### Temas vistos
 
- -
+ - Operadores de precedencia
+ - Setencias If, else
+ - Ciclos
+ - Ciclos Do While
+ - For 
   
 #### Tareas
 
