@@ -110,3 +110,8 @@ public class MyClass {
     }
 }
 ```
+
+## 5. Determinar la edad
+
+![image](https://user-images.githubusercontent.com/31961588/161316000-884eb389-46a5-4ce7-988e-713810f5abde.png)
+
