@@ -48,3 +48,37 @@ public class MyClass {
     }
 }
 ```
+
+## 2. Calcular hora futura
+
+![image](https://user-images.githubusercontent.com/31961588/161313481-2cd0c06c-dc20-44fd-a901-cd988c247a5c.png)
+
+**Solución**
+
+```Java
+import java.util.Scanner;
+public class MyClass {
+    public static void main(String args[]) {
+        
+        Scanner leer = new Scanner(System.in);
+        int hActual,numeroH,totalH;
+        
+        System.out.println("Ingrese la hora actual:");
+        hActual=leer.nextInt();
+        
+        System.out.println("Ingrese ingrese el número de horas:");
+        numeroH=leer.nextInt();
+        
+        totalH=hActual+numeroH;
+        
+        if(totalH<=24){
+          System.out.println("En "+ numeroH+ " horas, el reloj marcara las " + totalH);
+        }else{
+          totalH=totalH%24;
+          System.out.println("En "+ numeroH+ " horas, el reloj marcara las " + totalH);   
+        }
+       
+  
+    }
+}
+```
