@@ -3,8 +3,8 @@
 public class HolaMundo {
 
     public static void main(String args[]) {
-        var numero = 10;
-        var numeroTexto = "Valor desconocido";
+        int numero = 10;
+        String numeroTexto = "Valor desconocido";
         
         switch(numero){
             case 1:
