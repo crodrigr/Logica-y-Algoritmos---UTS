@@ -87,3 +87,26 @@ public class MyClass {
 
 ![image](https://user-images.githubusercontent.com/31961588/161314780-387facf8-ca94-4329-9e18-e5d2f859ce9a.png)
 
+**Solución**
+
+```Java
+import java.util.Scanner;
+public class MyClass {
+    public static void main(String args[]) {
+        
+        Scanner leer = new Scanner(System.in);
+        String palabra1,palabra2;
+        System.out.println("Ingrese la primera palabra:");
+        palabra1=leer.next();
+        System.out.println("Ingrese la segunda palabra :");
+        palabra2=leer.next();
+        
+        if(palabra1.length()<palabra2.length()){
+           System.out.println("la segunda palabra es más larga"); 
+        }else{
+            System.out.println("la primera palabra es más larga"); 
+        }
+        
+    }
+}
+```
