@@ -137,4 +137,11 @@ public class MyClass {
 
 ![image](https://user-images.githubusercontent.com/31961588/161316980-8a5f67fa-5511-48a6-9293-f471e5986b79.png)
 
+## 11 Digitos
+
+![image](https://user-images.githubusercontent.com/31961588/161317459-64acab49-1c68-40bd-a059-327482bc69e6.png)
+
+## Verificador de digito
+
+![image](https://user-images.githubusercontent.com/31961588/161317842-c91525c3-e2e9-408e-b930-eb853a8d6015.png)
 
