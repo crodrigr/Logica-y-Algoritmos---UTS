@@ -21,6 +21,6 @@
   
 #### Tareas
 
-- Hacer los ejercicios del taller 1 en Java. 
+
 
      
