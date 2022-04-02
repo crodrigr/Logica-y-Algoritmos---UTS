@@ -26,6 +26,7 @@
   
 #### Tareas
 
-
+- Estudiar los operadores logicos 
+- Estructura de condicion
 
      
