@@ -29,5 +29,6 @@
 - Estudiar los operadores logicos 
 - Estudiar Estructura de condicion
 - Estudia While
+- Ejercicios: suma y tabla
 
      
