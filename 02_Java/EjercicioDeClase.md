@@ -119,6 +119,36 @@ public class MyClass {
 
 ![image](https://user-images.githubusercontent.com/31961588/161316250-b328c4cd-1f25-4378-94aa-49820413163c.png)
 
+**Solución**
+
+```Java
+package ejerciciosdeclase;
+import java.util.Scanner;
+
+public class PotenciaDeDos {
+    
+    public static void main(String[] args) {
+        
+       Scanner leer = new Scanner(System.in);
+       
+       int numero;
+       double potencia;
+       System.out.println("Ingresar numero ");
+       numero=leer.nextInt();               
+       int i=1;       
+       while(i<=numero){
+         potencia=Math.pow(2, i);
+         System.out.println(potencia);
+         i++; //i=i+1;  
+       }
+       
+       
+    }
+    
+    
+}
+```
+
 ## 7. Suma entre ellos
 
 ![image](https://user-images.githubusercontent.com/31961588/161316404-b38f03af-b012-44cf-9f46-b7c5a699cdaf.png)
