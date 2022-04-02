@@ -27,6 +27,7 @@
 #### Tareas
 
 - Estudiar los operadores logicos 
-- Estructura de condicion
+- Estudiar Estructura de condicion
+- Estudia While
 
      
