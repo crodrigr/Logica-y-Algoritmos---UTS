@@ -196,7 +196,7 @@ public class PotenciaDeDos {
 
 ![image](https://user-images.githubusercontent.com/31961588/162555671-1e34f134-da77-4b40-a9e4-fda7f2484be2.png)
 
-## Caballo de ajedrez
+## 16. Caballo de ajedrez
 
 ![image](https://user-images.githubusercontent.com/31961588/162556165-602c5710-71e4-4c50-be3f-8bd06c0763b1.png)
 
