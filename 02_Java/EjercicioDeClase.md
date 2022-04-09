@@ -187,6 +187,42 @@ public class SumaEntreDosValores {
 
 ![image](https://user-images.githubusercontent.com/31961588/161316508-f6228676-cf5e-42cd-97c8-0a9a91f30554.png)
 
+**Solución**
+
+```Java
+package ejerciciosdeclase2;
+
+public class TablaMultiplicacion {
+    
+    public static void main(String arg[]){
+     
+        int i,j;
+        
+        i=1;
+        j=1;
+        
+        while(i<=10){
+            j=1;
+            while(j<=10){
+              if(i==1){                 
+                 System.out.print("  "+j);
+              }
+              if(j==1 &&  i!=1){
+                 System.out.print(i);
+              }else if(i!=1){
+                System.out.print("  "+i*j);        
+              }
+             j=j+1;
+            }
+            i=i+1;
+            System.out.println();
+        }   
+    
+    }
+    
+}
+```
+
 ## 9. Divesores
 
 ![image](https://user-images.githubusercontent.com/31961588/161316696-0ab90b26-b5ce-4986-abd4-71656e220b26.png)
