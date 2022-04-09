@@ -249,6 +249,42 @@ public class TablaMultiplicacion {
 
 ![image](https://user-images.githubusercontent.com/31961588/161318311-77bd4fb6-92c6-43e5-94ee-9d2a76b0ea23.png)
 
+**Solución**
+
+```Java
+package ejerciciosdeclase2;
+
+import java.util.Scanner;
+
+public class AdivinarNumero {
+    
+     public static void main(String[] args) {
+         Scanner leer=new Scanner(System.in);         
+         int contador=1,numeroAzar,numeroIngresado;
+         numeroAzar=(int) (Math.random()*100+1);
+         
+         System.out.println("Ingrese numero: ");
+         numeroIngresado=leer.nextInt();
+         
+         while(numeroAzar!=numeroIngresado){
+             contador=contador+1;             
+             if(numeroIngresado>numeroAzar){
+              System.out.println("El número es menor");
+             }else{
+               System.out.println("El número es mayor");
+             }             
+             System.out.println("Ingrese numero: ");
+             numeroIngresado=leer.nextInt();             
+         }
+         
+          System.out.println("Correcto Adivinaste en "+ contador + " intentos");
+              
+     }
+    
+}
+```
+
+
 
 ## 14. Reglamento de evaluaciones
 
