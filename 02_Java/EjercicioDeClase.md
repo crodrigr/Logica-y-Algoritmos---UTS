@@ -184,4 +184,10 @@ public class PotenciaDeDos {
 ![image](https://user-images.githubusercontent.com/31961588/161318311-77bd4fb6-92c6-43e5-94ee-9d2a76b0ea23.png)
 
 
+## 14. Reglamento de evaluaciones
+
+![image](https://user-images.githubusercontent.com/31961588/162555560-33f3e90a-746d-4a77-8cb1-108e482d925b.png)
+
+![image](https://user-images.githubusercontent.com/31961588/162555574-f9d67d10-d9e5-4543-a560-3abfa97fc2ed.png)
+
 
