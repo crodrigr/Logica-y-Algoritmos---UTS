@@ -153,6 +153,36 @@ public class PotenciaDeDos {
 
 ![image](https://user-images.githubusercontent.com/31961588/161316404-b38f03af-b012-44cf-9f46-b7c5a699cdaf.png)
 
+**Solución**
+
+```Java
+package ejerciciosdeclase2;
+
+import java.util.Scanner;
+
+public class SumaEntreDosValores {
+    
+     public static void main(String[] args) {
+         Scanner leer=new Scanner(System.in);         
+         int num1,num2,suma=0,inicio;
+         
+         System.out.println("Ingrese el numero 1: ");
+         num1=leer.nextInt();
+         System.out.println("Ingrese el numero 2: ");
+         num2=leer.nextInt();
+         inicio=num1;
+         while(inicio<num2-1){
+          inicio=inicio+1;
+          suma=suma+inicio;
+         }
+         
+         System.out.println("La suma entre valors " + num1 + " y "+ num2 + " es :"+ suma);
+            
+     }
+    
+}
+```
+
 ## 8. Tabla de multiplicar
 
 ![image](https://user-images.githubusercontent.com/31961588/161316508-f6228676-cf5e-42cd-97c8-0a9a91f30554.png)
