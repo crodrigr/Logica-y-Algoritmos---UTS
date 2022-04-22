@@ -305,5 +305,14 @@ public class AdivinarNumero {
 ![image](https://user-images.githubusercontent.com/31961588/162556177-4bfdff3d-7edb-435c-a1fa-429c3ced0831.png)
 
 
+## 17. Votaciones de la CONFECH
+
+![image](https://user-images.githubusercontent.com/31961588/164815954-5be9a264-cca2-4e7c-8ed7-028f923601db.png)
+
+![image](https://user-images.githubusercontent.com/31961588/164816011-f69d60f1-9cc6-477a-a5da-448d382fce59.png)
+
+![image](https://user-images.githubusercontent.com/31961588/164816039-5bda0d8c-b468-45b9-8236-c913f9d62fd7.png)
+
+
 
 
