@@ -241,6 +241,52 @@ public class TablaMultiplicacion {
 
 ![image](https://user-images.githubusercontent.com/31961588/161317842-c91525c3-e2e9-408e-b930-eb853a8d6015.png)
 
+**Solución**
+
+```Java
+package ejerciciosdeclase2;
+
+import java.util.Scanner;
+
+public class DigitoVerificador {
+    
+    public static void main(String arg[]){
+    Scanner leer=new Scanner(System.in);
+    String numero;
+    String secuencia="234567";
+    
+    System.out.println("Ingrese el Id");
+    numero=leer.next();
+    
+    int i=0;
+    int tamanoNumero=numero.length();
+    int contadorSec=0;
+    int sec=0;
+    int suma=0;
+    while(i<tamanoNumero){
+        int digito=Integer.parseInt(String.valueOf(numero.charAt((tamanoNumero-1)-i)));
+        if(contadorSec<6){
+         sec=Integer.parseInt(String.valueOf(secuencia.charAt(contadorSec)));
+         contadorSec++;
+        }
+        if(contadorSec==6){
+            contadorSec=0;
+        }
+        suma=suma+(digito*sec);
+                
+        i++;
+    
+    }
+    
+    int verificador=11-(suma%11);
+    
+    System.out.println(numero+"-"+verificador);    
+    }
+    
+    
+}
+```
+
 ## 13. Adivinar el número
 
 ![image](https://user-images.githubusercontent.com/31961588/161318209-5b3e659c-8b44-4cca-8f2a-ef42de3f06f1.png)
