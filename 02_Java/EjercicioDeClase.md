@@ -351,13 +351,32 @@ public class AdivinarNumero {
 ![image](https://user-images.githubusercontent.com/31961588/162556177-4bfdff3d-7edb-435c-a1fa-429c3ced0831.png)
 
 
-## 17. Votaciones de la CONFECH
+## 17. Votaciones de la CONFECH - Parcial II
 
 ![image](https://user-images.githubusercontent.com/31961588/164815954-5be9a264-cca2-4e7c-8ed7-028f923601db.png)
 
 ![image](https://user-images.githubusercontent.com/31961588/164816011-f69d60f1-9cc6-477a-a5da-448d382fce59.png)
 
 ![image](https://user-images.githubusercontent.com/31961588/164816039-5bda0d8c-b468-45b9-8236-c913f9d62fd7.png)
+
+
+## 18. Alza del dolar - Parcial II
+
+![image](https://user-images.githubusercontent.com/31961588/165184869-b338654c-dc75-49e2-bc37-4ff76851be58.png)
+
+## 19. Maquina de alimentos - Parcial II
+
+![image](https://user-images.githubusercontent.com/31961588/165184936-4960b35e-3f48-4259-a1a2-6b78be19958d.png)
+
+![image](https://user-images.githubusercontent.com/31961588/165184982-e6d447b0-fdc1-4355-8542-8da46ae98460.png)
+
+![image](https://user-images.githubusercontent.com/31961588/165185022-e34c6f8e-20af-4693-adf8-3291402cd994.png)
+
+## 19. Promoción con descuento - Parcial II
+
+![image](https://user-images.githubusercontent.com/31961588/165185122-0d1bdca6-9b2d-459c-8909-f532b40f0b6c.png)
+
+![image](https://user-images.githubusercontent.com/31961588/165185181-822688a8-d9cb-4d47-be24-2301a8f76bb4.png)
 
 
 
