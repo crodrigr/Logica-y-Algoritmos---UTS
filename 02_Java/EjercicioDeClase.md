@@ -350,6 +350,66 @@ public class AdivinarNumero {
 
 ![image](https://user-images.githubusercontent.com/31961588/162556177-4bfdff3d-7edb-435c-a1fa-429c3ced0831.png)
 
+**Solución**
+
+```Java
+package ejerciciosdeclase2;
+
+import java.util.Scanner;
+
+public class CaballoAjedrez {
+    
+    public static void main(String arg[]){
+         Scanner leer=new Scanner(System.in); 
+         int fila, columna;
+
+         System.out.println("Ingrese la fila: ");
+         fila=leer.nextInt();
+         System.out.println("Ingrese la columna: ");
+         columna=leer.nextInt();
+         
+         if( (fila>=1 && fila<=8) && (columna>=1 && columna<=8)  ){
+             
+            if(fila-1>=1 && columna+2<=8){
+              System.out.println((fila-1)+" : "+(columna+2));
+            }
+            
+            if(fila+1>=1 && columna+2<=8){
+              System.out.println((fila+1)+" : "+(columna+2));
+            } 
+             
+            if(fila-1>=1 && columna-2<=8){
+              System.out.println((fila-1)+" : "+(columna-2));
+            } 
+              
+            if(fila+1>=1 && columna-2<=8){
+              System.out.println((fila+1)+" : "+(columna-2));
+            }
+            
+           ////////////////////
+           if(fila-2>=1 && columna-1<=8){
+           System.out.println((fila-2)+" : "+(columna-1));
+            }
+            if(fila-2>=1 && columna+1<=8){
+            System.out.println((fila-2)+" : "+(columna+1));
+            } 
+            if(fila+2>=1 && columna-1<=8){ 
+            System.out.println((fila+2)+" : "+(columna-1));
+            } 
+            if(fila+2>=1 && columna+1<=8){  
+              System.out.println((fila+2)+" : "+(columna+1));
+            } 
+         
+         }else{
+          System.out.println("La fila o la columna no existe en un tablero de ajedrez");
+         }
+    
+    }
+    
+}
+```
+
+
 
 ## 17. Parcial II - Votaciones de la CONFECH 
 
