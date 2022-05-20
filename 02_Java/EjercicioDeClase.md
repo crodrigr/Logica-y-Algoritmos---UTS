@@ -451,6 +451,11 @@ public class CaballoAjedrez {
 
 ![image](https://user-images.githubusercontent.com/31961588/169598543-e8230137-4e29-43a4-bc4c-6f18bfe3b4d0.png)
 
+![image](https://user-images.githubusercontent.com/31961588/169598660-400b537f-8918-4ac9-9bcb-f7cc1e99022d.png)
+
+![image](https://user-images.githubusercontent.com/31961588/169598681-1d904459-ebeb-4059-8171-e4ebfa223dd8.png)
+
+
 
 
 
