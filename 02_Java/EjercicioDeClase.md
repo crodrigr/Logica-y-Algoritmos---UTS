@@ -456,7 +456,50 @@ public class CaballoAjedrez {
 ![image](https://user-images.githubusercontent.com/31961588/169598681-1d904459-ebeb-4059-8171-e4ebfa223dd8.png)
 
 
+**Solución**
 
+```Java
+package ejerciciosdeclase2;
+
+public class MultiplicacionMatrices {
+
+    public static void main(String[] args) {
+        
+        int[][] a = {{1, 2, -3}, {4, 0, -2}};
+        int[][] b = {{3, 1}, {2, 4}, {-1, 5}};
+        int[][] c = new int[a.length][b[0].length];
+        imprimirMatriz(a);
+        imprimirMatriz(b);
+        
+        if (a[0].length == b.length) {
+            for (int i = 0; i < a.length; i++) {
+                for (int j = 0; j < b[0].length; j++) {
+                    for (int k = 0; k < a[0].length; k++) {
+                        // aquí se multiplica la matriz
+                        c[i][j] += a[i][k] * b[k][j];
+                    }
+                }
+            }
+           imprimirMatriz(c);
+         }
+       
+         
+    
+     }//main
+    public static void imprimirMatriz(int m[][]){
+        System.out.print("\n");
+        for(int i=0;i<m.length; i++){
+          for(int j=0;j<m[0].length; j++){
+             System.out.print(m[i][j]+" ");
+         }
+           System.out.print("\n");
+        }
+    
+    }       
+    
+}//class
+
+```
 
 
 
