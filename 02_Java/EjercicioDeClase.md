@@ -439,5 +439,21 @@ public class CaballoAjedrez {
 ![image](https://user-images.githubusercontent.com/31961588/165185181-822688a8-d9cb-4d47-be24-2301a8f76bb4.png)
 
 
+## 21 Mutiplicación de matrices 
+
+![image](https://user-images.githubusercontent.com/31961588/169598322-f42295e6-085f-40bf-b6b6-e9d798558795.png)
+
+![image](https://user-images.githubusercontent.com/31961588/169598390-224f3e34-9910-4670-a5be-a2b09c5490cf.png)
+
+![image](https://user-images.githubusercontent.com/31961588/169598448-5dddc565-1d35-4fbc-8513-1b11139bd73e.png)
+
+![image](https://user-images.githubusercontent.com/31961588/169598498-e5b36ae5-80d9-47d8-9b15-870f36048f36.png)
+
+![image](https://user-images.githubusercontent.com/31961588/169598543-e8230137-4e29-43a4-bc4c-6f18bfe3b4d0.png)
+
+
+
+
+
 
 
