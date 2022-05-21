@@ -438,8 +438,39 @@ public class CaballoAjedrez {
 
 ![image](https://user-images.githubusercontent.com/31961588/165185181-822688a8-d9cb-4d47-be24-2301a8f76bb4.png)
 
+## 21 Calificaciones con matrices
 
-## 21 Mutiplicación de matrices 
+```Java
+package ejerciciosdeclase2;
+
+public class CalificacionesMatrix {
+    
+    public static void main(String arg[]){
+    
+      int calificaciones[][]=new int[20][4];
+     
+      //Llenado de la matriz
+      
+      for(int i=0;i<calificaciones.length;i++){      
+         for(int j=0;j<calificaciones[i].length;j++){         
+             if(j < calificaciones[i].length-1){
+               calificaciones[i][j]=(int)(Math.random()*5+1);               
+             }             
+             System.out.print(calificaciones[i][j]+" ");         
+         }
+         System.out.println(); 
+      
+      }
+      
+    
+    }
+    
+}
+
+```
+
+
+## 22 Mutiplicación de matrices 
 
 ![image](https://user-images.githubusercontent.com/31961588/169598322-f42295e6-085f-40bf-b6b6-e9d798558795.png)
 
