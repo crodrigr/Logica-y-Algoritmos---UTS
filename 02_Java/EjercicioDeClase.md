@@ -533,6 +533,9 @@ public class MultiplicacionMatrices {
 ```
 
 
+## 23. Maquinaria
+
+![image](https://user-images.githubusercontent.com/31961588/170827119-e2c357d9-dbf8-44f8-a21a-63ad8db4685d.png)
 
 
 
