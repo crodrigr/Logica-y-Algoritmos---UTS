@@ -620,4 +620,16 @@ public class Maquinas {
 ![image](https://user-images.githubusercontent.com/31961588/172004655-3c0aa553-8905-457b-9c01-4904cb8d07cf.png)
 
 
+# 25. Certamen notas - Candidato último parcial
+![image](https://user-images.githubusercontent.com/31961588/172006287-0b655ead-3818-4f76-9c49-04de68a4d8c6.png)
+
+
+![image](https://user-images.githubusercontent.com/31961588/172006274-1625fdd9-eb0d-43a8-b62e-5e383c4efe52.png)
+
+![image](https://user-images.githubusercontent.com/31961588/172006315-20c3535a-1800-464f-a3eb-db34a1324133.png)
+
+![Uploading image.png…]()
+
+
+
 
