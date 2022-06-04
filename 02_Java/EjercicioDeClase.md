@@ -628,8 +628,14 @@ public class Maquinas {
 
 ![image](https://user-images.githubusercontent.com/31961588/172006315-20c3535a-1800-464f-a3eb-db34a1324133.png)
 
+![image](https://user-images.githubusercontent.com/31961588/172006596-c55e33ec-169a-48f9-8868-ece5c926271a.png)
+
+
+# 26 Producción de autos -  Candidato último parcial
+
+![image](https://user-images.githubusercontent.com/31961588/172006846-8c06ea5d-bbd0-4985-a2e4-f5c06b2cfc0e.png)
+
+# 27 Barman - Candidato último parcial
+
 ![Uploading image.png…]()
-
-
-
 
