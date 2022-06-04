@@ -637,5 +637,6 @@ public class Maquinas {
 
 # 27 Barman - Candidato último parcial
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/31961588/172009849-62db6920-c940-44e9-a0a9-1332d7034fac.png)
+
 
