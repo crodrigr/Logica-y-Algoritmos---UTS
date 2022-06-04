@@ -537,5 +537,80 @@ public class MultiplicacionMatrices {
 
 ![image](https://user-images.githubusercontent.com/31961588/170827119-e2c357d9-dbf8-44f8-a21a-63ad8db4685d.png)
 
+**Solunción**
 
+```Java
+package ejerciciosdeclase2;
+
+public class Maquinas {
+    
+    public static void main(String arg[]){
+    
+    //Definicion de el arreglo bidimensional y su llenado
+    int numeroMaquinas=15;
+    int numeroDias=7;
+    int maquinas[][]=new int[numeroMaquinas][numeroDias];
+    double PdiohTtalMqnaSmna[] =new double[numeroMaquinas];
+    double PdiohTtalMqnaDia[] =new double[numeroDias];
+    
+    System.out.println("Matriz con número de horas trabajas por dia de cada maquina");
+    for(int i=0;i<numeroMaquinas;i++){
+        for(int j=0;j<numeroDias;j++){
+           maquinas[i][j]=(int)(Math.random()*24+0);
+           System.out.print(maquinas[i][j]+"  ");
+        }
+        System.out.println();
+    }
+    
+    /*Promedio horas trabajas por maquina durante una semana*/
+  
+    System.out.println("LISTADO DE HORAS PROMEDIO TRABAJAS POR MAQUINA");
+     for(int i=0;i<numeroMaquinas;i++){
+        double sumaHorasSemanales=0;
+        for(int j=0;j<numeroDias;j++){
+          sumaHorasSemanales=sumaHorasSemanales+maquinas[i][j];
+        }
+        PdiohTtalMqnaSmna[i]=sumaHorasSemanales/numeroDias;
+        System.out.println("Maquina: "+i+" horas promedio trabajas por semana: "+PdiohTtalMqnaSmna[i]);
+        
+       
+        
+        
+        
+    }
+        int idMaquinaMayor=0;
+        int idMaquinaMenor=0;
+        double mayor=0;
+        double menor=PdiohTtalMqnaSmna[0];
+      for(int i=0;i<numeroMaquinas;i++){
+        if(PdiohTtalMqnaSmna[i]>mayor){
+            idMaquinaMayor=i;
+            mayor=PdiohTtalMqnaSmna[i];
+         }
+         if(PdiohTtalMqnaSmna[i]<menor){
+            idMaquinaMenor=i;
+            menor=PdiohTtalMqnaSmna[i];
+         }
+      }
+     
+    System.out.println("\nLa maquina "+idMaquinaMayor+ " fue la que mas horas trabjo: "+PdiohTtalMqnaSmna[idMaquinaMayor]);
+    System.out.println("La maquina "+idMaquinaMenor+ " fue la que menoshoras trabjo: "+PdiohTtalMqnaSmna[idMaquinaMenor]);
+      
+     /*Promedio horas trabajas por dia para todas la maquintas*/
+    System.out.println("\nLISTADO DE HORAS PROMEDIO TRABAJAS POR DIA PARA TODAS LAS MAQUINAS");
+     for(int j=0;j<numeroDias;j++){
+        double sumaHorasDia=0;
+        for(int i=0;i<numeroMaquinas;i++){
+          sumaHorasDia=sumaHorasDia+maquinas[i][j];
+        }
+        PdiohTtalMqnaDia[j]=sumaHorasDia/numeroDias;
+        System.out.println("Dia: "+j+" horas promedio trabajas por todas las maquinas: "+PdiohTtalMqnaDia[j]);
+               
+        
+    }
+    }
+    
+}
+
+```
 
