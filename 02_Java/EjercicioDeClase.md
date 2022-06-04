@@ -614,7 +614,7 @@ public class Maquinas {
 
 ```
 
-# 24. ADN
+# 24. ADN - Candidato último parcial
 
 ![image](https://user-images.githubusercontent.com/31961588/172004623-dc9f3ec7-8074-41b2-9aa3-7f27a9075355.png)
 ![image](https://user-images.githubusercontent.com/31961588/172004655-3c0aa553-8905-457b-9c01-4904cb8d07cf.png)
